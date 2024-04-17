@@ -1,0 +1,17 @@
+export const colors = {
+	bgc: '#f6f6f6',
+	ElemsBgc: '#fff',
+	PrimeColor: '#526ed3',
+	DarkPrime: '#314692',
+	LightPrime: '#717b9f',
+	TextColor: '#303030',
+	HoverText: '#fff',
+	DarkGray: '#6d6f7a',
+	Gray: '#717171',
+	LightGray: '#e3e3e3',
+	PlaceholderColor: '#8c8c8c',
+	DisabledBgc: '#C1C6D3',
+	Red: '#dc2020',
+	Green: '#36ac82',
+	Blue: '#399efa',
+}
